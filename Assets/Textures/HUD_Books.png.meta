@@ -1,0 +1,893 @@
+fileFormatVersion: 2
+guid: df139881543713c4198f024c8f5a2dc5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD_Books_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3497
+        width: 1600
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc0408948e3664e94599b57a931ec4
+      internalID: -1530647591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_1
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 2333
+        width: 1897
+        height: 1396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb4f109d83a0b34a9670e164cb64d30
+      internalID: 1052931196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3265
+        width: 1600
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3889fb00d8d5894f8e91d0f8d39387d
+      internalID: 620684970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3030
+        width: 1600
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62732ae673100d14294370d31bd0cbee
+      internalID: -293298662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2796
+        width: 1599
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e362172c05b0ed49b5ff7a9c7bd9c59
+      internalID: 195020273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2563
+        width: 1600
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b1337c2e63bef40adbe85e4d0956e2
+      internalID: 1728280132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2331
+        width: 1599
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c737f871a4542d45a11da31d2552a7e
+      internalID: -521501149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1778
+        width: 1237
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f4309b4af9a0479864601b56ee68f
+      internalID: -671055910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_8
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 1780
+        width: 1090
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d6e9387b3f7543b905c98ed64d4c4
+      internalID: 629119956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_9
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1777
+        width: 1088
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0772941c0bcf84bb880d62b3e75636
+      internalID: -992769470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1263
+        width: 343
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cb8dfec109dae44a8f199a04d2b941
+      internalID: -313304595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1263
+        width: 344
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770824f896f7fa141afe2e7069c0cf36
+      internalID: -1460077303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_12
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1263
+        width: 341
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5ebc89b2e565b4d896abffd828fb0c
+      internalID: 582484414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_13
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1263
+        width: 345
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0722877f02cbebb4894fd7a6ea21a427
+      internalID: -360764794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_14
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1263
+        width: 343
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cbadfcc19e25d4cb7e0f62e659200e
+      internalID: -281438566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_15
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1263
+        width: 340
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0c1009681f06941b895c567ba99550
+      internalID: -1284199290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_16
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1263
+        width: 343
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e554e3834c81d46933834d721a94ef
+      internalID: 2118811924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_17
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1263
+        width: 345
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e348ff00e6210ce4da80611004e65e45
+      internalID: -263268735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_18
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1263
+        width: 341
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1189f0ce98dde0845bda67b09840bff1
+      internalID: 38443444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 755
+        width: 361
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dfbb304783b3041b12d0150fbebf59
+      internalID: -921721135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_20
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 755
+        width: 362
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a468fefb9285e3b478f4efbfb6f153ab
+      internalID: 1436535203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_21
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 755
+        width: 366
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b12fc55d7c09b4f887ad8b07dce875
+      internalID: -1625241301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_22
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 755
+        width: 364
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb6be5d1174bc43a737e8d97d21f10
+      internalID: -262681650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_23
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 755
+        width: 362
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a2a26f35973794f82aa8c0447561a3
+      internalID: 510685577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_24
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 755
+        width: 359
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ffd645762e9f5488e234720ff5920a
+      internalID: 176071576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_25
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 755
+        width: 362
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e3b52ca4838c9408fcca5b4acf9d71
+      internalID: 92227980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_26
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 755
+        width: 361
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47d5693581607447a3ba70f61542589
+      internalID: -126049754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_27
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 755
+        width: 362
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1dcee2bf5dc874ca7d2dfe21288d45
+      internalID: -586187775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_28
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 255
+        width: 419
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4dd85741d9cca40b3363cb4288dbbd
+      internalID: 108907307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_29
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 255
+        width: 414
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8d19cf7aa2b9d4aab4c78b93948085
+      internalID: 484929541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_30
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 239
+        width: 310
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a0245d2c71d5149bf5715c44ddb5f2
+      internalID: 756945753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_31
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 239
+        width: 326
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74328b62511574f8af2b19de4c000d
+      internalID: 1326650052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_32
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 263
+        width: 315
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d05cec265d66a49b90d7bf86e6a17c
+      internalID: -1684592145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_33
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 276
+        width: 315
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a088ea74ff8945bbd02cbddfe6b9a
+      internalID: -1881696473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD_Books_34
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 256
+        width: 1163
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4489c9124386f84aa71ad10796b7a10
+      internalID: 1458461612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HUD_Books_0: -1530647591
+      HUD_Books_1: 1052931196
+      HUD_Books_10: -313304595
+      HUD_Books_11: -1460077303
+      HUD_Books_12: 582484414
+      HUD_Books_13: -360764794
+      HUD_Books_14: -281438566
+      HUD_Books_15: -1284199290
+      HUD_Books_16: 2118811924
+      HUD_Books_17: -263268735
+      HUD_Books_18: 38443444
+      HUD_Books_19: -921721135
+      HUD_Books_2: 620684970
+      HUD_Books_20: 1436535203
+      HUD_Books_21: -1625241301
+      HUD_Books_22: -262681650
+      HUD_Books_23: 510685577
+      HUD_Books_24: 176071576
+      HUD_Books_25: 92227980
+      HUD_Books_26: -126049754
+      HUD_Books_27: -586187775
+      HUD_Books_28: 108907307
+      HUD_Books_29: 484929541
+      HUD_Books_3: -293298662
+      HUD_Books_30: 756945753
+      HUD_Books_31: 1326650052
+      HUD_Books_32: -1684592145
+      HUD_Books_33: -1881696473
+      HUD_Books_34: 1458461612
+      HUD_Books_4: 195020273
+      HUD_Books_5: 1728280132
+      HUD_Books_6: -521501149
+      HUD_Books_7: -671055910
+      HUD_Books_8: 629119956
+      HUD_Books_9: -992769470
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
