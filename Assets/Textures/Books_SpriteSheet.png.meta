@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -103,7 +103,301 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Books_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a4df0b6a3d8644eac42adff4692550
+      internalID: 2104105217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 559
+        width: 140
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c146df7b95f43e41aaae64e26f6bf75
+      internalID: -2058420017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 559
+        width: 140
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d17490ed702548a24077dc5602d92
+      internalID: 1406433519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 559
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78cf962a8e044b4189f99c2cafa4cf6
+      internalID: -1249003428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 559
+        width: 140
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3211de7329725e04aaa466b9420e09cc
+      internalID: 292141339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 559
+        width: 140
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbcd9ec955d18540b7da49d86435412
+      internalID: 1243586193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 248
+        width: 776
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14fd27bc81899b48b6ba65bdf7698d3
+      internalID: -728503224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a7d0c3f60c8ef429ed413fff3d26c3
+      internalID: -1704294027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 47
+        width: 140
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a86a0d67e5746541813de01059b2588
+      internalID: 1565827662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 47
+        width: 140
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d136670afd32e4d8b56b799a237fad
+      internalID: 1184399057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 47
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6187bf92573b09e4f916759134407777
+      internalID: 409954547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 47
+        width: 140
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7338bb2a0af3f540998d97f8a7229be
+      internalID: -909773056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 47
+        width: 140
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1bb85d68e464444b30ce576f6a2937
+      internalID: 1454884829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Books_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 161
+        width: 1006
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977e0c40f216e3a4ea6c64e30613a8f3
+      internalID: 761042140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +408,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Books_SpriteSheet_0: 2104105217
+      Books_SpriteSheet_1: -2058420017
+      Books_SpriteSheet_10: 409954547
+      Books_SpriteSheet_11: -909773056
+      Books_SpriteSheet_12: 1454884829
+      Books_SpriteSheet_13: 761042140
+      Books_SpriteSheet_2: 1406433519
+      Books_SpriteSheet_3: -1249003428
+      Books_SpriteSheet_4: 292141339
+      Books_SpriteSheet_5: 1243586193
+      Books_SpriteSheet_6: -728503224
+      Books_SpriteSheet_7: -1704294027
+      Books_SpriteSheet_8: 1565827662
+      Books_SpriteSheet_9: 1184399057
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
