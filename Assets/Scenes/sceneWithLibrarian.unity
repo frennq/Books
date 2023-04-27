@@ -388,6 +388,46 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 276137423}
     m_Modifications:
+    - target: {fileID: 1842191140641058128, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 663.9425
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842191140641058128, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 151.8399
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842191140641058128, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842191140641058128, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -88
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842191141486178350, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 225.587
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842191141486178350, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 56.8144
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842191141486178350, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -23.413
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842191141486178350, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -91.1856
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842191141554207404, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 251
+      objectReference: {fileID: 0}
+    - target: {fileID: 1842191141554207404, guid: 982209811bad12645b0f55547000bc23, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -49
+      objectReference: {fileID: 0}
     - target: {fileID: 1842191141646084796, guid: 982209811bad12645b0f55547000bc23, type: 3}
       propertyPath: m_Name
       value: CuadroDialogo
